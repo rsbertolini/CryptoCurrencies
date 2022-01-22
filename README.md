@@ -5,6 +5,6 @@ The purpose of this project was to analyze a cryptocurrency dataset using unsupe
 in order to create investment portfolios.
 
 ## Analysis
- After pre-processing the data, clustering, reducing dimensions, and using PCA, we are able to see that the cryptocurrencies group into 4 classifications.
+ After pre-processing the data, clustering, reducing dimensions, and using PCA we are able to see that the cryptocurrencies group into 4 classifications.
  
- [3DScatterPlot](3DScatter.PNG)
+ [3DScatterPlot](/3DScatter.PNG)
